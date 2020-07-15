@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+I am a Front-end developer and a web consultant, who likes to help Solopenuer, Femalepenuer and Business owners build super fast websites that boost sales. 
+
+🔭 These days I am working a lot on WordPress/Woocommerce migration to ReactJS powered websites.
+
+📫 How to reach me: @amresha.official
 <!--
 **amresha/amresha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
